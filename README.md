@@ -1,4 +1,0 @@
-ProiectAndroid
-==============
-
-ProiectAndroid
